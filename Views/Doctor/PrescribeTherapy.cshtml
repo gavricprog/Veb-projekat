@@ -1,0 +1,32 @@
+﻿@model List<Veb_projekat.Models.Patient>
+
+@{
+    ViewBag.Title = "Prepiši terapiju";
+}
+
+<h2>Prepiši terapiju</h2>
+<table class="table">
+    <tr>
+        <th>Ime</th>
+        <th>Prezime</th>
+        <th>Akcija</th>
+        <th>Terapije</th>
+    </tr>
+    @foreach (var patient in Model)
+    {
+        <tr>
+            <td>@patient.FirstName</td>
+            <td>@patient.LastName</td>
+            <td>
+                <a href="@Url.Action("CreateTherapyForPatient", "Doctor", new { patientId = patient.Username })">Prepiši terapiju</a>
+            </td>
+            <td>
+                <a href="@Url.Action("PatientTherapies", "Doctor", new { jmbg = patient.JMBG })">Prikaži terapije</a>
+
+            </td>
+        </tr>
+    }
+</table>
+<p>
+    <a href="@Url.Action("Index")" class="btn btn-primary">Nazad na termine</a>
+</p>

@@ -1,0 +1,66 @@
+﻿@model Veb_projekat.Models.PatientDetailsViewModel
+
+@{
+    ViewBag.Title = "Moje Informacije";
+    var username = Model.Patient.Username;
+}
+
+<h2>Dobrodošli, @username!</h2>
+
+<h3>Moje Terapije</h3>
+
+@if (Model.Therapies.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Datum</th>
+                <th>Opis</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var terapija in Model.Therapies)
+            {
+                <tr>
+                    <td>@terapija.StartDate.ToShortDateString()</td>
+                    <td>@terapija.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nemate terapije u sistemu.</p>
+}
+
+<h3>Moji Zakazani Termini</h3>
+
+@if (Model.Appointments.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Datum i Vreme</th>
+                <th>Lekar</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var termin in Model.Appointments)
+            {
+                <tr>
+                    <td>@termin.DateTimeScheduled</td>
+                    <td>@termin.Doctor.FirstName</td>
+                    <td>@termin.Status</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nema zakazanih termina.</p>
+}
+
+<a href="@Url.Action("ScheduleAppointment", "Patient")" class="btn btn-primary">Zakazivanje Novog Termina</a>

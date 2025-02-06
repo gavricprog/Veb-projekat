@@ -1,0 +1,43 @@
+﻿@model List<Veb_projekat.Models.ScheduleAppointmentViewModel>
+
+@{
+    ViewBag.Title = "Zakazivanje Novog Termina";
+}
+
+<h2>Zakazivanje Novog Termina</h2>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Datum i Vreme</th>
+                <th>Lekar</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var termin in Model)
+            {
+                <tr>
+                    <td>@termin.DateTimeScheduled</td>
+                    <td>@termin.DoctorName</td>
+                    <td>
+                        @using (Html.BeginForm("ScheduleAppointment", "Patient", FormMethod.Post))
+                        {
+                            @Html.Hidden("appointmentId", termin.AppointmentId) 
+                            <button type="submit" class="btn btn-primary">Zakaži</button>
+                        }
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nema slobodnih termina za zakazivanje.</p>
+}
+
+<a href="@Url.Action("Index", "Patient")" class="btn btn-secondary">Nazad</a>

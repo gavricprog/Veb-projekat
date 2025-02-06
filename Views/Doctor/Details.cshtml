@@ -1,0 +1,49 @@
+﻿@model Veb_projekat.Models.Appointment
+
+@{
+    ViewBag.Title = "Detalji termina";
+}
+
+<h2>Detalji termina</h2>
+
+<div>
+    <h4>Pacijent</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Ime:</dt>
+        <dd>@Model.Patient.FirstName</dd>
+
+        <dt>Prezime:</dt>
+        <dd>@Model.Patient.LastName</dd>
+
+        <dt>Korisničko ime:</dt>
+        <dd>@Model.Patient.Username</dd>
+
+        <dt>JMBG:</dt>
+        <dd>@Model.Patient.JMBG</dd>
+
+        <dt>Email:</dt>
+        <dd>@Model.Patient.Email</dd>
+
+        
+    </dl>
+</div>
+
+<div>
+    <h4>Termin</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Datum i vreme:</dt>
+        <dd>@Model.DateTimeScheduled</dd>
+
+        <dt>Status:</dt>
+        <dd>@Model.Status</dd>
+
+        <dt>Opis terapije:</dt>
+        <dd>@Model.TherapyDescription</dd>
+    </dl>
+</div>
+
+<p>
+    <a href="@Url.Action("Index")" class="btn btn-primary">Nazad na termine</a>
+</p>

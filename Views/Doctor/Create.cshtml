@@ -1,0 +1,39 @@
+﻿@model Veb_projekat.Models.Appointment
+
+@{
+    ViewBag.Title = "Kreiranje novog termina";
+}
+
+<h2>Kreiranje novog termina</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Termin</h4>
+    <hr />
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.DateTimeScheduled, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.DateTimeScheduled, new { @class = "form-control", placeholder = "dd/MM/yyyy HH:mm" })
+            @Html.ValidationMessageFor(model => model.DateTimeScheduled, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Kreiraj" class="btn btn-primary" style="font-weight: bold;" />
+        </div>
+    </div>
+
+</div>
+}
+
+<div>
+    @Html.ActionLink("Nazad na listu termina", "Index")
+</div>

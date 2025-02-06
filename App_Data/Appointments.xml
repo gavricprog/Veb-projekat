@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Appointments xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Appointment>
+    <Id>1</Id>
+    <Patient>
+      <Username>patient2</Username>
+      <JMBG>1234567890000</JMBG>
+      <Password>patient2</Password>
+      <FirstName>Aleksa</FirstName>
+      <LastName>Avramovic</LastName>
+      <DateOfBirth>1980-01-01</DateOfBirth>
+      <Email>Aleksa@gmail.com</Email>
+      <ScheduledAppointments>
+        <string>22/11/2322 13:33</string>
+        <string>22/07/2002 23:30</string>
+        <string>15/06/2003 23:15</string>
+      </ScheduledAppointments>
+    </Patient>
+    <Doctor>
+      <Username>doctor2</Username>
+      <Password>doctor2</Password>
+      <FirstName>Bongo</FirstName>
+      <LastName>Borisevic</LastName>
+      <DateOfBirth>15/12/1999</DateOfBirth>
+      <Email>bongo@gmail.com</Email>
+      <ScheduledAppointments />
+      <AvailableAppointments />
+    </Doctor>
+    <DoctorUsername>doctor2</DoctorUsername>
+    <Status>Scheduled</Status>
+    <DateTimeScheduled>22/11/2322 13:33</DateTimeScheduled>
+    <TherapyDescription>Partizan</TherapyDescription>
+  </Appointment>
+  <Appointment>
+    <Id>2</Id>
+    <Patient>
+      <Username>bosh</Username>
+      <JMBG>1234567890001</JMBG>
+      <Password>123</Password>
+      <FirstName>Chris</FirstName>
+      <LastName>Bosh</LastName>
+      <DateOfBirth>22/01/2911</DateOfBirth>
+      <Email>garava@gmail.com</Email>
+      <ScheduledAppointments>
+        <string>22/22/2222 22:22</string>
+      </ScheduledAppointments>
+    </Patient>
+    <Doctor>
+      <Username>doctor1</Username>
+      <Password>doctor1</Password>
+      <FirstName>Konlo</FirstName>
+      <LastName>Saruc</LastName>
+      <DateOfBirth>15/02/1975</DateOfBirth>
+      <Email>saruc@gmail.com</Email>
+      <ScheduledAppointments />
+      <AvailableAppointments />
+    </Doctor>
+    <DoctorUsername>doctor1</DoctorUsername>
+    <Status>Scheduled</Status>
+    <DateTimeScheduled>22/11/2222 22:22</DateTimeScheduled>
+    <TherapyDescription>Ikra</TherapyDescription>
+  </Appointment>
+  <Appointment>
+    <Id>3</Id>
+    <Patient>
+      <Username>patient2</Username>
+      <JMBG>1234567890000</JMBG>
+      <Password>patient2</Password>
+      <FirstName>Aleksa</FirstName>
+      <LastName>Avramovic</LastName>
+      <DateOfBirth>1980-01-01</DateOfBirth>
+      <Email>Aleksa@gmail.com</Email>
+      <ScheduledAppointments>
+        <string>22/11/2322 13:33</string>
+        <string>22/07/2002 23:30</string>
+        <string>15/06/2003 23:15</string>
+      </ScheduledAppointments>
+    </Patient>
+    <Doctor>
+      <Username>doctor1</Username>
+      <Password>doctor1</Password>
+      <FirstName>Konlo</FirstName>
+      <LastName>Saruc</LastName>
+      <DateOfBirth>15/02/1975</DateOfBirth>
+      <Email>saruc@gmail.com</Email>
+      <ScheduledAppointments />
+      <AvailableAppointments />
+    </Doctor>
+    <DoctorUsername>doctor1</DoctorUsername>
+    <Status>Scheduled</Status>
+    <DateTimeScheduled>15/06/2003 23:15</DateTimeScheduled>
+    <TherapyDescription>Porodjaj</TherapyDescription>
+  </Appointment>
+  <Appointment>
+    <Id>4</Id>
+    <Doctor>
+      <Username>doctor1</Username>
+      <Password>doctor1</Password>
+      <FirstName>Konlo</FirstName>
+      <LastName>Saruc</LastName>
+      <DateOfBirth>15/02/1975</DateOfBirth>
+      <Email>saruc@gmail.com</Email>
+      <ScheduledAppointments />
+      <AvailableAppointments />
+    </Doctor>
+    <DoctorUsername>doctor1</DoctorUsername>
+    <Status>Free</Status>
+    <DateTimeScheduled>12/12/2222 23:30</DateTimeScheduled>
+    <TherapyDescription />
+  </Appointment>
+  <Appointment>
+    <Id>5</Id>
+    <Patient>
+      <Username>patient2</Username>
+      <JMBG>1234567890000</JMBG>
+      <Password>patient2</Password>
+      <FirstName>Aleksa</FirstName>
+      <LastName>Avramovic</LastName>
+      <DateOfBirth>1980-01-01</DateOfBirth>
+      <Email>Aleksa@gmail.com</Email>
+      <ScheduledAppointments>
+        <string>22/11/2322 13:33</string>
+        <string>22/07/2002 23:30</string>
+        <string>15/06/2003 23:15</string>
+      </ScheduledAppointments>
+    </Patient>
+    <Doctor>
+      <Username>doctor1</Username>
+      <Password>doctor1</Password>
+      <FirstName>Konlo</FirstName>
+      <LastName>Saruc</LastName>
+      <DateOfBirth>15/02/1975</DateOfBirth>
+      <Email>saruc@gmail.com</Email>
+      <ScheduledAppointments />
+      <AvailableAppointments />
+    </Doctor>
+    <DoctorUsername>doctor1</DoctorUsername>
+    <Status>Scheduled</Status>
+    <DateTimeScheduled>22/07/2002 23:30</DateTimeScheduled>
+    <TherapyDescription>Partizan</TherapyDescription>
+  </Appointment>
+</Appointments>

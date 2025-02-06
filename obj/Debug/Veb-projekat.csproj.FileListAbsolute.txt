@@ -1,0 +1,395 @@
+C:\Users\HP\Desktop\Veb-projekat\bin\Veb-projekat.dll.config
+C:\Users\HP\Desktop\Veb-projekat\bin\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Veb-projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Veb-projekat\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\WebGrease.dll
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Veb-projekat\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Veb-projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Veb-projekat\obj\Debug\Veb-projekat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Veb-projekat\obj\Debug\Veb-projekat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Veb-projekat\obj\Debug\Veb-proj.9FDFF08D.Up2Date
+C:\Users\HP\Desktop\Veb-projekat\obj\Debug\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat\obj\Debug\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Veb-projekat.dll.config
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\WebGrease.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\obj\Debug\Veb-projekat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\obj\Debug\Veb-projekat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\obj\Debug\Veb-proj.9FDFF08D.Up2Date
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\obj\Debug\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat - Radna Verzija\obj\Debug\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Veb-projekat.dll.config
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\WebGrease.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Veb-projekat Pacijent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Veb-projekat Pacijent\obj\Debug\Veb-projekat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Veb-projekat Pacijent\obj\Debug\Veb-projekat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Veb-projekat Pacijent\obj\Debug\Veb-proj.9FDFF08D.Up2Date
+C:\Users\HP\Desktop\Veb-projekat Pacijent\obj\Debug\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat Pacijent\obj\Debug\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Veb-projekat.dll.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\WebGrease.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Veb-projekat Trenutni\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni\obj\Debug\Veb-projekat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Veb-projekat Trenutni\obj\Debug\Veb-projekat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Veb-projekat Trenutni\obj\Debug\Veb-proj.9FDFF08D.Up2Date
+C:\Users\HP\Desktop\Veb-projekat Trenutni\obj\Debug\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni\obj\Debug\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Veb-projekat.dll.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Veb-projekat.pdb
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\WebGrease.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\obj\Debug\Veb-projekat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\obj\Debug\Veb-projekat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\obj\Debug\Veb-proj.9FDFF08D.Up2Date
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\obj\Debug\Veb-projekat.dll
+C:\Users\HP\Desktop\Veb-projekat Trenutni - Za predavanje\obj\Debug\Veb-projekat.pdb

@@ -1,0 +1,32 @@
+﻿@model List<Veb_projekat.Models.Patient>
+
+<h2>Pacijenti</h2>
+
+<table style="border-collapse: separate; border-spacing: 10px;">
+    <thead>
+        <tr>
+            <th>Korisničko ime</th>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Email</th>
+            <th>Akcije</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pacijent in Model)
+        {
+            <tr>
+                <td>@pacijent.Username</td>
+                <td>@pacijent.FirstName</td>
+                <td>@pacijent.LastName</td>
+                <td>@pacijent.Email</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { username = pacijent.Username })">Edituj</a> |
+                    <a href="@Url.Action("Delete", new { username = pacijent.Username })">Obriši</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")">Dodaj novog pacijenta</a>
