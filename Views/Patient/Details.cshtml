@@ -1,0 +1,69 @@
+﻿@model Veb_projekat.Models.PatientDetailsViewModel
+
+@{
+    ViewBag.Title = "Detalji Pacijenta";
+}
+
+<h2>Detalji Pacijenta</h2>
+
+<p>Ime: @Model.Patient.FirstName @Model.Patient.LastName</p>
+<p>Email: @Model.Patient.Email</p>
+<p>Datum rođenja: @Model.Patient.DateOfBirth</p>
+<p>Zakazani termini:</p>
+
+@if (Model.Appointments.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Datum i Vreme</th>
+                <th>Lekar</th>
+                <th>Status</th>
+                <th>Opis Terapije</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in Model.Appointments)
+            {
+                <tr>
+                    <td>@appointment.DateTimeScheduled</td>
+                    <td>@appointment.Doctor.FirstName @appointment.Doctor.LastName</td>
+                    <td>@appointment.Status</td>
+                    <td>@appointment.TherapyDescription</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nema zakazanih termina.</p>
+}
+
+<h3>Terapije</h3>
+@if (Model.Therapies.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Datum</th>
+                <th>Opis</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var therapy in Model.Therapies)
+            {
+                <tr>
+                    <td>@therapy.StartDate.ToShortDateString()</td>
+                    <td>@therapy.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Nema terapija u sistemu.</p>
+}
+
+<a href="@Url.Action("Index", "Patient")" class="btn btn-secondary">Nazad na Index</a>

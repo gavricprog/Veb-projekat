@@ -1,0 +1,41 @@
+﻿@model List<Veb_projekat.Models.Appointment>
+
+@{
+    ViewBag.Title = "Moji termini";
+}
+
+<h2>Moji termini</h2>
+
+
+<p>
+    <a href="@Url.Action("Create", "Doctor")" class="btn btn-primary">Kreiraj novi termin</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>Datum i vreme</th>
+        <th>Status</th>
+        <th>Opis terapije</th>
+        <th>Akcije</th>
+    </tr>
+    @foreach (var appointment in Model)
+    {
+        <tr>
+            <td>@appointment.DateTimeScheduled</td>
+            <td>@appointment.Status</td>
+            <td>@appointment.TherapyDescription</td>
+            <td>
+                <a href="@Url.Action("Details", new { id = appointment.Id })">Detalji</a> |
+                @if (appointment.Status == Veb_projekat.Models.Appointment.AppointmentStatus.Scheduled)
+                {
+                    <a href="@Url.Action("CreateTherapy", "Doctor", new { appointmentId = appointment.Id })">Prepiši terapiju</a>
+                }
+
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    <a href="@Url.Action("PrescribeTherapy", "Doctor")" class="btn btn-secondary">Prikaži sve pacijente</a>
+</p>

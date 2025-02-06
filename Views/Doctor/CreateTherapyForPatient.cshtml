@@ -1,0 +1,22 @@
+﻿@model Veb_projekat.Models.Patient
+
+@{
+    ViewBag.Title = "Prepiši terapiju za pacijenta";
+}
+
+<h2>Prepiši terapiju za @Model.FirstName @Model.LastName</h2>
+
+@using (Html.BeginForm("CreateTherapyForPatient", "Doctor", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="therapyDescription">Opis terapije</label>
+        @Html.TextArea("therapyDescription", null, new { @class = "form-control", @rows = 5 })
+    </div>
+
+    <input type="hidden" name="patientId" value="@Model.Username" />
+
+    <button type="submit" class="btn btn-primary">Sačuvaj terapiju</button>
+    <a href="@Url.Action("Index", "Doctor")" class="btn btn-default">Nazad</a>
+}

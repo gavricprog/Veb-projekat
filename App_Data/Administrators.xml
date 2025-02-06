@@ -1,0 +1,16 @@
+﻿<Administrators>
+	<Administrator>
+		<Username>admin1</Username>
+		<Password>admin1</Password>
+		<FirstName>Pera</FirstName>
+		<LastName>Peric</LastName>
+		<DateOfBirth>01/02/2000</DateOfBirth>
+	</Administrator>
+	<Administrator>
+		<Username>admin2</Username>
+		<Password>admin2</Password>
+		<FirstName>Mare</FirstName>
+		<LastName>Peric</LastName>
+		<DateOfBirth>11/12/2004</DateOfBirth>
+	</Administrator>
+</Administrators>

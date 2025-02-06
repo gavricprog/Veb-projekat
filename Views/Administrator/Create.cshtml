@@ -1,0 +1,36 @@
+﻿@model Veb_projekat.Models.Patient
+
+<h2>Napravi Pacijenta</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Username) 
+    <div>
+        @Html.LabelFor(m => m.JMBG)
+        @Html.TextBoxFor(m => m.JMBG)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.LastName)
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.DateOfBirth)
+        @Html.TextBoxFor(m => m.DateOfBirth)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+    <button type="submit">Sačuvaj</button>
+}
+<p style="margin-top: 20px;">
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Nazad na termine</a>
+</p>

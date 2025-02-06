@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Doctors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Doctor>
+    <Username>doctor1</Username>
+    <Password>doctor1</Password>
+    <FirstName>Konlo</FirstName>
+    <LastName>Saruc</LastName>
+    <DateOfBirth>15/02/1975</DateOfBirth>
+    <Email>saruc@gmail.com</Email>
+    <ScheduledAppointments>
+      <string>22/22/2222 22:22</string>
+      <string>22/07/2002 23:30</string>
+      <string>15/06/2003 23:15</string>
+    </ScheduledAppointments>
+    <AvailableAppointments />
+  </Doctor>
+  <Doctor>
+    <Username>doctor2</Username>
+    <Password>doctor2</Password>
+    <FirstName>Bongo</FirstName>
+    <LastName>Borisevic</LastName>
+    <DateOfBirth>15/12/1999</DateOfBirth>
+    <Email>bongo@gmail.com</Email>
+    <ScheduledAppointments>
+      <string>22/11/2322 13:33</string>
+    </ScheduledAppointments>
+    <AvailableAppointments />
+  </Doctor>
+  <Doctor>
+    <Username>s</Username>
+    <Password>s</Password>
+    <FirstName>aa</FirstName>
+    <LastName>a</LastName>
+    <DateOfBirth>sas</DateOfBirth>
+    <Email>s</Email>
+    <ScheduledAppointments />
+    <AvailableAppointments />
+  </Doctor>
+</Doctors>

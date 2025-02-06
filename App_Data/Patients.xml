@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patients xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Patient>
+    <Username>patient2</Username>
+    <JMBG>1234567890000</JMBG>
+    <Password>patient2</Password>
+    <FirstName>Aleksa</FirstName>
+    <LastName>Avramovic</LastName>
+    <DateOfBirth>1980-01-01</DateOfBirth>
+    <Email>Aleksa@gmail.com</Email>
+    <ScheduledAppointments>
+      <string>22/11/2322 13:33</string>
+      <string>22/07/2002 23:30</string>
+      <string>15/06/2003 23:15</string>
+    </ScheduledAppointments>
+  </Patient>
+  <Patient>
+    <Username>bosh</Username>
+    <JMBG>1234567890001</JMBG>
+    <Password>123</Password>
+    <FirstName>Chris</FirstName>
+    <LastName>Bosh</LastName>
+    <DateOfBirth>22/01/2911</DateOfBirth>
+    <Email>garava@gmail.com</Email>
+    <ScheduledAppointments>
+      <string>22/22/2222 22:22</string>
+    </ScheduledAppointments>
+  </Patient>
+</Patients>
